@@ -1,1 +1,0 @@
-clang encrypt_decrypt.c -o encrypt_decrypt -lssl -lcrypto
