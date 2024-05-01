@@ -1,1 +1,0 @@
-gcc -o agree0 agree0.c -lcs50
